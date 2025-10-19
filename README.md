@@ -23,6 +23,6 @@ A hands-on cryptography notebook where you **decode and encode messages** using 
 
 ## 🚀 Project structure
 
-├─ coded_correspondence.ipynb   # The notebook with all tasks & helpers.
+├─ coded_correspondence.ipynb   # This is the notebook that contains all tasks and helpers.
 
 └─ README.md.
