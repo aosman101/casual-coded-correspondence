@@ -17,11 +17,12 @@ A hands-on cryptography notebook where you **decode and encode messages** using 
   - Keeps spaces and punctuation intact.
   - Clear, step-by-step cells you can run top-to-bottom.
 
-> The Caesar cipher shifts each letter by a fixed offset, using modulo 26 (which is a classic monoalphabetic substitution). The Vigenère cipher, on the other hand, applies a series of Caesar shifts that are derived from a repeatedly used keyword, representing a simple polyalphabetic substitution.
+> The Caesar cipher shifts each letter by a fixed offset, using modulo 26. This method is a classic example of monoalphabetic substitution. In contrast, the Vigenère cipher employs a series of Caesar shifts based on a keyword that is repeated throughout the text. This represents a simple form of polyalphabetic substitution.
+
 ---
 
 ## 🚀 Project structure
 
-├─ coded_correspondence.ipynb   # This is the notebook that contains all tasks and helpers.
+├─ coded_correspondence.ipynb   # This notebook contains all the tasks and helpers.
 
 └─ README.md.
